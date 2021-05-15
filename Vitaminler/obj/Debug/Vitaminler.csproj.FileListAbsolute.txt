@@ -1,0 +1,175 @@
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+F:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+D:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+E:\programming c#\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+F:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+D:\ \programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+H:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.isim_bulamadımk.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+E:\programming c#\Form\Viteminler\Vitaminler\Vitaminler\obj\Debug\Vitaminler.isim_bulamadımk.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.isim_bulamadımk.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.Cache
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojResolveAssemblyReference.cache
+C:\Users\Kuvarti\Desktop\Vitaminler\Vitaminler\obj\Debug\Vitaminler.bosluk_doldurma.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe.config
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\bin\Debug\Vitaminler.exe
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\bin\Debug\Vitaminler.pdb
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csprojAssemblyReference.cache
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.A vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.B vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.bosluk_doldurma.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.C_vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.d_vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.E_vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Form1.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.girisejrani.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.isim_bulamadımk.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.K vitamini.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Kaynakcavs.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.Properties.Resources.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.test.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.YAZILAR.resources
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.GenerateResource.cache
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.csproj.CoreCompileInputs.cache
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.exe
+C:\Users\kuvar\Desktop\cv\Vitaminler\Vitaminler\obj\Debug\Vitaminler.pdb
