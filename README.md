@@ -4,4 +4,4 @@
 açılması gerek dosya ;
 \Vitaminler\bin\Debug/Vitaminler.exe
 
-+deneme
++
